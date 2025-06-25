@@ -1,0 +1,40 @@
+{
+  "squadName" : "Héroes Mexicanos",
+  "homeTown" : "Ciudad de México",
+  "formed" : 2020,
+  "secretBase" : "Templo Azteca",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "El Jaguar",
+      "age" : 32,
+      "secretIdentity" : "Luis Hernández",
+      "powers" : [
+        "Fuerza sobrehumana",
+        "Agilidad felina",
+        "Sentidos mejorados",
+        "Camuflaje natural"
+      ]
+    },
+    {
+      "name" : "Luz de Plata",
+      "age" : 28,
+      "secretIdentity" : "María Gómez",
+      "powers" : [
+        "Manipulación de luz",
+        "Invisibilidad",
+        "Creación de ilusiones"
+      ]
+    },
+    {
+      "name" : "El Volcán",
+      "age" : 40,
+      "secretIdentity" : "José Martínez",
+      "powers" : [
+        "Control del fuego y lava",
+        "Resistencia al calor extremo",
+        "Explosiones controladas"
+      ]
+    }
+  ]
+}
